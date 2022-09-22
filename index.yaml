@@ -1,0 +1,36 @@
+apiVersion: v1
+entries:
+  sub-chart-1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-22T23:34:12.975569133Z"
+    description: A Helm chart for Kubernetes
+    digest: a67a04bd0cd86815688187f90d4a7a058ff842a08bef1c47ad63d85c71ef349f
+    name: sub-chart-1
+    type: application
+    urls:
+    - https://github.com/lloydsmithjr03/helm-charts/releases/download/sub-chart-1-0.1.1/sub-chart-1-0.1.1.tgz
+    version: 0.1.1
+  sub-chart-2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-22T23:34:13.248445878Z"
+    description: A Helm chart for Kubernetes
+    digest: 71db38dae8cc003f6bdd476a046dcb7e84dbaa144c5a882889b1895dfb23bddc
+    name: sub-chart-2
+    type: application
+    urls:
+    - https://github.com/lloydsmithjr03/helm-charts/releases/download/sub-chart-2-0.1.1/sub-chart-2-0.1.1.tgz
+    version: 0.1.1
+  sub-chart-3:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-22T23:34:13.485779314Z"
+    description: A Helm chart for Kubernetes
+    digest: 26a7cab51388dfa6a9beb838f04e86edd3f8a4e93c100cade0a9df502988b195
+    name: sub-chart-3
+    type: application
+    urls:
+    - https://github.com/lloydsmithjr03/helm-charts/releases/download/sub-chart-3-0.1.1/sub-chart-3-0.1.1.tgz
+    version: 0.1.1
+generated: "2022-09-22T23:34:13.485785514Z"
